@@ -27,7 +27,6 @@ exports.userSignup = async (request, response, next) => {
             return response.status(409).json({ message: 'Email or Phone Number already exist!' })
         }
 
-
     } catch (error) {
         console.log(error);
     }
@@ -138,7 +137,6 @@ exports.getAlluser = async (request, response, next) => {
             }
         });
         return response.status(200).json({ users, message: "All users succesfully fetched" })
-
     } catch (error) {
         console.log(error);
         return response.status(500).json({ message: 'Internal Server error!' })
