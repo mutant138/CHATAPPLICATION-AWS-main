@@ -16,8 +16,8 @@ BUCKET_NAME = 'groupchatapp-demo'
 
 WEBSITE = http://15.207.14.149:3000
 DATABASE_NAME='groupchat-app'
-DATABASE_USERNAME='mufilrahman'
-DATABASE_PASSWORD='Mufilpassword'
+DATABASE_USERNAME='udhaya'
+DATABASE_PASSWORD='udhaya138'
 DATABASE_DIALECT='mysql'
 DATABASE_HOST='database-1.cqa0oth-1.rds.amazonaws.com'
 
