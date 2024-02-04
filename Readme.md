@@ -1,0 +1,14 @@
+
+
+OUTPUT SIGNUP AND LOGIN PAGE
+
+![SIGNUP](https://github.com/mutant138/CHATAPPLICATION-AWS-main/assets/96628953/f9edbefa-d6e2-487e-91dd-d6cced47c187)
+![SIGNIN](https://github.com/mutant138/CHATAPPLICATION-AWS-main/assets/96628953/5d680946-4e6e-4a1a-a571-cac46359b567)
+
+HOME PAGE
+![COMMON GROUP](https://github.com/mutant138/CHATAPPLICATION-AWS-main/assets/96628953/310f12da-6cf9-44d5-a7db-28db3c9dec50)
+
+GROUP CREATING PAHSE
+![GROUP CREATION](https://github.com/mutant138/CHATAPPLICATION-AWS-main/assets/96628953/aa56c3cb-5dbd-40c3-9636-296029b4c955)
+![POST GROUP CREATION](https://github.com/mutant138/CHATAPPLICATION-AWS-main/assets/96628953/97358ed5-d047-43de-882d-ba165e464713)
+![NEW GROUP](https://github.com/mutant138/CHATAPPLICATION-AWS-main/assets/96628953/0de4c45a-4a55-40c2-8f80-08b971cda502)
