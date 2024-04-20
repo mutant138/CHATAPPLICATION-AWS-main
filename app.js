@@ -47,7 +47,7 @@ io.on('connection', websocketService )
 
 instrument(io, { auth: false })
 
-User.hasMany(Forgotpasswords);
+User.hasMany(Forgotpasswords); 
 Forgotpasswords.belongsTo(User);
 User.hasMany(ChatHistory)
 ChatHistory.belongsTo(User, { constraints: true });
